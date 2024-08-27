@@ -20,7 +20,7 @@ The smart contract utilizes mappings to store and manage courses and students ef
 (Note: Replace # with the actual link to a flowchart image if available.)
 
 Smart Contract Address
-Contract Address: 0xYourContractAddressHere
+Contract Address: 0x1f3C0f68Cf13288D03507C731c6E93487CD1fFD3
 (Note: Replace 0xYourContractAddressHere with the actual contract address after deployment.)
 Usage
 Add Course: Institutions can add courses with addCourse(courseId, courseName, credits).
@@ -36,6 +36,7 @@ Off-Chain Data Storage: Use off-chain storage solutions for scalable management 
 Smart Contract Upgrades: Implement upgradable smart contracts for continuous improvement and feature additions.
 Contact Details
 For more information, feedback, or collaboration, please contact:
+
 
 Name: Avoy Baruah
 Email: avoycoc123@gmail.com
