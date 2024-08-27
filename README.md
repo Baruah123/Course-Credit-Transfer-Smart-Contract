@@ -1,4 +1,6 @@
 # Course-Credit-Transfer-Smart-Contract
+![image](https://www.shutterstock.com/image-vector/b-blockchain-logo-template-technology-600nw-1891225663.jpg)
+
 Vision
 The Course Credit Transfer smart contract aims to revolutionize the way educational institutions manage and recognize course credits. By leveraging blockchain technology, this contract provides a secure, transparent, and efficient system for adding courses, registering students, marking course completions, and transferring credits between students. This decentralized approach ensures data integrity and prevents unauthorized manipulation, fostering trust between institutions and students.
 
@@ -40,7 +42,6 @@ For more information, feedback, or collaboration, please contact:
 
 Name: Avoy Baruah
 Email: avoycoc123@gmail.com
-LinkedIn: Your LinkedIn
-GitHub: Your GitHub
+
 License
 This project is licensed under the MIT License - see the LICENSE file for details.
